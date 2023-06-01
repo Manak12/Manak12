@@ -1,4 +1,5 @@
-### Hi I'm MANAK 👋
+### Hi I'm MANAK 👋! 
+    An Algo Addict 🧑‍💻
 
 - 🚀 Exploring the TECH World!
 - 🔭 I’m currently working on Personal Web Development Projects!
